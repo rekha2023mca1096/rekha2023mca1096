@@ -1,7 +1,7 @@
 
 
 <!--
-**rekha2023mca1096/rekha2023mca1096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rekha2023mca1096/rekha2023mca1096** is a ✨ _special_ ✨ repository because its `know about me` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
